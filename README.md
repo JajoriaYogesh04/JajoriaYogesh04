@@ -3,17 +3,19 @@
 
 - 🌱 I’m currently learning **MERN stack (web development)**
 
-<p>
+<div style="width: 100%;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact" alt="jajoriayogesh04" />
-</p>
-<hr/>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en" alt="jajoriayogesh04" />
-</p>
-<hr/>
-<p>
+</div>
+<br clear="both" />
+<br/>
+<div style="width: 100%;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en" alt="jajoriayogesh04" />
+</div>
+<br />
+<div style="width: 100%;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jajoriayogesh04&" alt="jajoriayogesh04" />
-</p>
+</div>
+
 
 
 

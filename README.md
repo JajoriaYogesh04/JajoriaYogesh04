@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Jajoria</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🌱 I’m currently learning **MERN stack (web development)**
-
 <div style="width: 100%;">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact" alt="jajoriayogesh04" />
 </div>

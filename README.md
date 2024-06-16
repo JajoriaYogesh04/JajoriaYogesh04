@@ -6,11 +6,11 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact" alt="jajoriayogesh04" />
 </p>
-<br/>
+<hr/>
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en" alt="jajoriayogesh04" />
 </p>
-<br/>
+<hr/>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jajoriayogesh04&" alt="jajoriayogesh04" />
 </p>

@@ -3,11 +3,18 @@
 
 - 🌱 I’m currently learning **MERN stack (web development)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact" alt="jajoriayogesh04" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact" alt="jajoriayogesh04" />
+</p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en" alt="jajoriayogesh04" /></p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en" alt="jajoriayogesh04" />
+</p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jajoriayogesh04&" alt="jajoriayogesh04" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jajoriayogesh04&" alt="jajoriayogesh04" />
+</p>
+
 
 
 <p align="left">

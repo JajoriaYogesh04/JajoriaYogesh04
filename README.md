@@ -9,8 +9,9 @@
 <br clear="both" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en" alt="jajoriayogesh04" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jajoriayogesh04&show_icons=true&locale=en&theme=radical" alt="jajoriayogesh04" />
 </div>
+
 
 <br />
 

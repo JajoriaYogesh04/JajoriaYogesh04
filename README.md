@@ -2,8 +2,9 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact" alt="jajoriayogesh04" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jajoriayogesh04&show_icons=true&locale=en&layout=compact&theme=radical" alt="jajoriayogesh04" />
 </div>
+
 
 <br clear="both" />
 

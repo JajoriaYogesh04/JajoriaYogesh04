@@ -16,8 +16,9 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jajoriayogesh04&" alt="jajoriayogesh04" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jajoriayogesh04&theme=radical" alt="jajoriayogesh04" />
 </div>
+
 
 <h1 align="center">Skills</h1>
 <h3 align="center">Programming Languages</h3>

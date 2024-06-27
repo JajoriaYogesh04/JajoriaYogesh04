@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Yogesh Jajoria</h1>
+<h1 align="center">Hii! 👋, I'm Yogesh Jajoria</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
 <div align="center">

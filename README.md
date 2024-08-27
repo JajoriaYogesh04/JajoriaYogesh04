@@ -1,7 +1,7 @@
 <h1 align="center">Hii👋, I'm YOGESH JAJORIA</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=rahulgarg223&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgarg223" />
+    <img src="https://komarev.com/ghpvc/?username=JajoriaYogesh04&label=Profile%20views&color=0e75b6&style=flat" alt="JajoriaYogesh04" />
 </p>
 
 <div align="center">

@@ -67,4 +67,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </p>
 <hr/>
- 
+ <h1 align="center">Connect with me</h1>
+ <p style="background-color: white;" align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="git" width="40" height="40" /> 
+</p>
